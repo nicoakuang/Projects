@@ -1,3 +1,0 @@
-# projects
-Websites, PythonBot, 
-aa
